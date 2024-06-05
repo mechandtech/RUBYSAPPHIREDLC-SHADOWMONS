@@ -5,7 +5,7 @@ db $00
 
 
 TicketPalette: ; 1604
-	INCBIN "entei.pal.bin"
+	INCBIN "quagsire.pal.bin"
 
 Prologue:
 	INCBIN "prologue-{REGION_NAME}.bin"
@@ -25,10 +25,10 @@ Instructions1: ; 1921
 	db "Press the B Button to cancel.\0"
 
 DeliveryInProcess: ; 1a0d
-	db "RAIKOU EVENT delivery in Progress..\0"
+	db "QUAGSIRE EVENT delivery in Progress..\0"
 
 TicketDelivered: ; 1a2f
-	db "RAIKOU EVENT delivered!\0"
+	db "QUAGSIRE EVENT delivered!\0"
 
 ; this function is subtly different than the one
 ; on the Battle e cards, for no apparent reason
