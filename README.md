@@ -1,5 +1,5 @@
 # Disclaimer
-The work here in the non-Emerald folders are not mine. They are here from when this repository was forked, and will serve as a reference for the cards that will be developed.
+The work here in the non-Emerald folders are not mine. In fact, most of the files are here from when this repository was forked, and blisy's work will serve as a reference for the "cards" that will be developed.
 
 As for the actual cards that will be developed, they're intended to replicate the encounters from the "noisy" areas of Colosseum. That is, they are supposed to use the RNG from Colosseum, but be less noisy than the areas in Colosseum, thus making it easier for your target frame (and thus spread) to be hit. Perhaps this is ambitious, but who knows, this wind up making a lot of hunts more convenient.
 
